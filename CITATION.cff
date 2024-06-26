@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: DuBio-WDC-Scalability-Testing
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: David
+    family-names: Hesthaven
+    email: d.b.hesthaven@student.utwente.nl
+    affiliation: University of Twente
+repository-code: 'https://github.com/DavidBH98/DuBio-WDC-Scalability-Testing'
